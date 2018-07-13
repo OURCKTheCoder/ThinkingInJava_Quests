@@ -1,0 +1,3 @@
+cd "/media/ourck/Local/Documents/Project TIJ4/ThinkingInJava_Quests/9-2_5-2"
+javac ./package1/TestMain.java
+java package1.TestMain
