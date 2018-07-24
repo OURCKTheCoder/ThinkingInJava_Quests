@@ -19,5 +19,5 @@ _____
  javac -cp some.jar XXX.javac
  java -cp some.jar XXX.javac
 -cp 必须是第一个参数
-这样就能解决问题。2333
+这样就能解决问题。
 
